@@ -1,3 +1,2 @@
 # Angular-databind
 DataBinding
-Stage
